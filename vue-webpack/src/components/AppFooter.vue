@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    Check out my <a href="GITHUB">Github</a>
+    Check out my <a href="https://github.com/WestRyanK/03_creative">Github</a>
   </div>
 </template>
 
@@ -10,14 +10,6 @@ export default {
 };
 </script>
 <style>
-@font-face {
-	font-family: "Source Sans Pro 300";
-	src: url('/static/fonts/SourceSansPro-Light.ttf');
-}
-.content {
-  margin-top: 100px;
-  font-family: "Source Sans Pro 300", serif; 
-}
 .footer {
   display: block;
   background-color: #888;
